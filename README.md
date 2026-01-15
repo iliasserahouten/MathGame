@@ -27,13 +27,14 @@ MathGame est un jeu éducatif en Python conçu pour aider les utilisateurs à am
 1. Clonez ce dépôt :
 ```bash
 git clone https://github.com/votre-utilisateur/MathGame.git
-2. Installez les dépendances (si nécessaire) :
 
+2. Installez les dépendances (si nécessaire) :
+```bash
 pip install numpy
 
 
 3. Lancez le jeu :
-
+```bash
 python main.py
 
 4. Utilisation
